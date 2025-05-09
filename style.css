@@ -1,0 +1,40 @@
+body { 
+background-color:#33ddff;
+font-family: Arial, sans-serif;
+color: #333;
+}
+
+header{ 
+background: #33ff7d;
+text-align: center;  
+ }
+
+
+#titulo { 
+font-family:courier;
+  color:#ff3333;
+}
+
+#descricao { 
+font-family:Constantia;
+ 
+
+}
+
+nav a {
+   color: white;
+  text-decoration:none;
+  font-size: 18px;
+    
+}
+
+footer{ 
+text-align:square;
+}
+
+footer { 
+font-family:Constantia;
+text-align: center;
+background: 
+}
+
